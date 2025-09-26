@@ -161,7 +161,7 @@ cython_debug/
 # Visual Studio Code
 .vscode/
 *.code-workspace
-
+token.pickle
 # macOS
 .DS_Store
 .AppleDouble
